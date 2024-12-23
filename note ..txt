@@ -1,0 +1,16 @@
+
+- lỗi xử lí đơn hàng(k sửa, xoá dc)
+- lỗi cập nhật ttin ng dùng (k thêm, sửa, xoá dc)
+- ko thống kê doanh thu dc
+- đổi lại đơn vị tiền tệ thành vnd (db đổi decimal 10,2 sang float k dc)
+- ảnh trang chủ k cập nhật dc theo sp thêm vào
+- sửa lại sang tiếng việt trang admin
+- edit sản phẩm không xúng dòng được
+
+- sữa tiền tệ 
+- trnag chủ
+- giỏ hàng -> xn mất sản phẩm
+- đổi tiếng việt 
+- sữa bảng thêm comment
+- button edit người dùng
+-- button giỏ hàng admin
